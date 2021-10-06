@@ -1,0 +1,33 @@
+# CS 121 Project 1: Traffic Animation
+
+* Author: My-Linh Ho
+* Class: CS121 
+* Semester: Fall 2021
+
+## Overview
+  
+This Java application displays an animation showing a scarecrow look to the left side and watching a red tractor riding on the road to the leaft with the beautiful weather on the back.
+
+## Reflection
+
+The project is fun and chalenging for me. There were man difficults I have run into while working with this project. One of the most challenging is making sure my scene adjust appropriately when the window gets resized. 
+
+After this project I have learned a valuable lesson. This is I should assign proper coordinate at first by connect with width and height of the windown. 
+
+## Compiling and Using
+
+To compile, execute the following command in the main project directory:
+```
+$ javac TrafficAnimation.java
+```
+
+Run the compiled class with the command:
+```
+$ java TrafficAnimation
+```
+
+## Sources used
+
+  
+- I found code to learn how to create a triangle for the scarecrow hat on
+https://www.delftstack.com/howto/java/java-draw-triangle/
